@@ -1,5 +1,5 @@
 # Ex06 BMI Calculator
-## Date:
+
 
 ## AIM
 To create a BMI calculator using React Router 
@@ -21,6 +21,7 @@ Classify the BMI result into categories (Underweight, Normal weight, Overweight,
 Navigate between pages using React Router.
 
 ## PROGRAM
+
 APP.JS
 ```
 import React, { useState } from 'react';   
@@ -125,7 +126,9 @@ function App() {
 export default App;
 
 ```
+
 APP.CSS
+
 ```
  * {
   margin: 0;
